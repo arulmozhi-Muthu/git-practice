@@ -1,0 +1,6 @@
+HTTP return codes
+100-199-the request is still processing
+200-299-success the request is available
+300-399-request is not available so redirect
+400-499-client side error
+500-599-server side error
