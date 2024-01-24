@@ -4,3 +4,5 @@ HTTP return codes
 300-399-request is not available so redirect
 400-499-client side error
 500-599-server side error
+Http-HyperText transfer Protocol
+This is used for communicating web browser and web server
